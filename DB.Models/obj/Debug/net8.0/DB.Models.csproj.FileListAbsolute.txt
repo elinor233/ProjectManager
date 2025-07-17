@@ -1,0 +1,14 @@
+C:\ProjectManager\DB.Models\bin\Debug\net8.0\DB.Models.deps.json
+C:\ProjectManager\DB.Models\bin\Debug\net8.0\DB.Models.runtimeconfig.json
+C:\ProjectManager\DB.Models\bin\Debug\net8.0\DB.Models.dll
+C:\ProjectManager\DB.Models\bin\Debug\net8.0\DB.Models.pdb
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.csproj.AssemblyReference.cache
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.AssemblyInfoInputs.cache
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.AssemblyInfo.cs
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.csproj.CoreCompileInputs.cache
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.dll
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\refint\DB.Models.dll
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.pdb
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\DB.Models.genruntimeconfig.cache
+C:\ProjectManager\DB.Models\obj\Debug\net8.0\ref\DB.Models.dll
